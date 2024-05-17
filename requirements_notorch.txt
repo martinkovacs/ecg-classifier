@@ -1,0 +1,4 @@
+matplotlib==3.*
+numpy==1.*
+pandas==2.*
+wfdb==4.*
